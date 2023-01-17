@@ -1,4 +1,4 @@
 # casino
-Terminal-based roulette game built in C++ that can be played in a 2 player or story mode utilizing object-oriented programming principles.
+Terminal-based roulette game built in C++ that has multiplayer and story modes, where players must place their bet and guess the randomly generated roulette colour. 
 
-Story mode includes Detective and Thief roles that utilizes inheritance and polymorphism concepts.
+Used inheritance on Thief and Detective classes to inherit common properties from User class.
